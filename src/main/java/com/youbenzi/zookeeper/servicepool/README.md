@@ -1,4 +1,4 @@
-# 基于 Zookeeper 的服务池
+# 基于 Zookeeper 的服务池(入门测试代码例子)
 
 使用Zookeeper来实现的服务池，保障业务的高可用。
 

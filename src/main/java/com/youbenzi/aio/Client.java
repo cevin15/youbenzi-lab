@@ -28,4 +28,5 @@ public class Client {
         // 这里休息一下再退出，给出足够的时间处理数据
         Thread.sleep(2000);
     }
+    
 }
